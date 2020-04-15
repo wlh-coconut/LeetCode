@@ -11,7 +11,7 @@ public class Test1 {
             int n = sc.nextInt();
             int k = sc.nextInt();
 
-            System.out.println("Hello Good Good!");
+            System.out.println("Hello Good Good!hhh");
         }
     }
 }
