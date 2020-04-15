@@ -10,6 +10,8 @@ public class Test1 {
             // 输入部分
             int n = sc.nextInt();
             int k = sc.nextInt();
+
+            System.out.println("Hello Good Good!");
         }
     }
 }
